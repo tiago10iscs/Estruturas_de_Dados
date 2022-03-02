@@ -1,0 +1,333 @@
+{
+  "GameTries" : [ {
+    "Path" : [ {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "25",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Laboratório"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "25",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : true,
+    "Missao" : "pata de coelho",
+    "Vida" : 10,
+    "Versao" : 1
+  }, {
+    "Path" : [ {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : false,
+    "Missao" : "pata de coelho",
+    "Vida" : 60,
+    "Versao" : 1
+  }, {
+    "Path" : [ {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "25",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : false,
+    "Missao" : "pata de coelho",
+    "Vida" : 35,
+    "Versao" : 1
+  }, {
+    "Path" : [ {
+      "Damage" : "0",
+      "Room" : "Garagem"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada de Emergência"
+    }, {
+      "Damage" : "15",
+      "Room" : "Escritório 1"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "15",
+      "Room" : "Escritório 1"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 2"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 2"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Hall"
+    }, {
+      "Damage" : "0",
+      "Room" : "Segurança"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "WC"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 4"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 3"
+    }, {
+      "Damage" : "20",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Laboratório"
+    }, {
+      "Damage" : "20",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "25",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "0",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : true,
+    "Missao" : "Rogue Nation",
+    "Vida" : 100,
+    "Versao" : 1
+  }, {
+    "Path" : [ {
+      "Damage" : "0",
+      "Room" : "Garagem"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 1"
+    }, {
+      "Damage" : "15",
+      "Room" : "Porteiro"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Hall"
+    }, {
+      "Damage" : "0",
+      "Room" : "Segurança"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "WC"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 4"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Armazém"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "25",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "20",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : true,
+    "Missao" : "Rogue Nation",
+    "Vida" : 100,
+    "Versao" : 2
+  }, {
+    "Path" : [ {
+      "Damage" : "15",
+      "Room" : "Heliporto"
+    }, {
+      "Damage" : "25",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "0",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 4"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Segurança"
+    }, {
+      "Damage" : "0",
+      "Room" : "Hall"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "20",
+      "Room" : "Escritório 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada de Emergência"
+    }, {
+      "Damage" : "0",
+      "Room" : "Garagem"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Porteiro"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Porteiro"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "20",
+      "Room" : "Escritório 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Corredor 1"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Hall"
+    }, {
+      "Damage" : "0",
+      "Room" : "Segurança"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "WC"
+    }, {
+      "Damage" : "15",
+      "Room" : "Corredor 2"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 4"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escritório 3"
+    }, {
+      "Damage" : "0",
+      "Room" : "Escada 5"
+    }, {
+      "Damage" : "0",
+      "Room" : "Camaratas"
+    }, {
+      "Damage" : "25",
+      "Room" : "Escada 6"
+    }, {
+      "Damage" : "15",
+      "Room" : "Heliporto"
+    } ],
+    "Resultado" : true,
+    "Missao" : "Rogue Nation",
+    "Vida" : 60,
+    "Versao" : 2
+  } ]
+}
